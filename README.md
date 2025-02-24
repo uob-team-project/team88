@@ -2,7 +2,7 @@
 
 This application was generated using JHipster 8.7.3 for the team project 2024-2025 module at the university of Birmingham.
 
-# Team 00
+# Team 88
 
 TODO:
 
@@ -10,8 +10,7 @@ TODO:
 
 2. Add your name below:
 
-   - Alice S. example@student.bham.ac.uk
-   - Bob S. example@student.bham.ac.uk
+   - madasar m.a.shah@bham.ac.uk
 
 3. Modify [gdpr-policy.component.html](src/main/webapp/app/gdpr-policy/gdpr-policy.component.html) to add your team number (replace X) and team members to the contact section.
 
